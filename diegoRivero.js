@@ -353,7 +353,7 @@ function mostrar_productos() {
           fontSize: "20px",
           color:"whiste",
           background: "linear-gradient(#FA824C,#342e37)"
-
+          
         }
         
         }).showToast();
